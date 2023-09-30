@@ -1,4 +1,5 @@
-# Building Responsive Webdesign animated with HTML/CSS/SASS - project for restaurant "Chicago" <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+# Building Responsive Webdesign animated with HTML/CSS/SASS - project for restaurant "Chicago" 
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 ## Project Specifications:
 I have just finished Building Responsive Web-design animated with HTML/CSS/SASS - freelance project for restaurant "Chicago".
